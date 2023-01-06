@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	stringutil "github.com/radovan-liska/reverse"
+	stringutil "github.com/radovan-liska/example/reverse"
 )
 
 func main() {
